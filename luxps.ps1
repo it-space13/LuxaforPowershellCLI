@@ -5,7 +5,7 @@
 param([boolean]$verbose)
 
 #The WebHook ID will load from the configPath file defined below, make sure you update this file if you re-generate the ID
-$global:luxID = ""
+$global:luxID = "d3a14172b2ca"
 
 #Duration inbetween Lock status scans
 $scanPeriod = 5
